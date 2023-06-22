@@ -1,14 +1,11 @@
 ---
-title: Our Coffee
-type: products
+title: My projects
+type: projects
 image: /img/products-jumbotron.jpg
 intro:
-  heading: What we offer
+  heading: Project archive
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    You can check out all the projects that I work on and maintain here.
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
